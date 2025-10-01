@@ -1,0 +1,17 @@
+#  Ignorar entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Power BI / Excel grandes
+*.pbix
+*.xlsx
+
+# Sistema
+.DS_Store
+Thumbs.db
