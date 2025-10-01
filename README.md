@@ -6,7 +6,7 @@ Este proyecto presenta un análisis comparativo detallado entre el **Real Zarago
 
 ## 🎯 Objetivos
 
-- Comparar el rendimiento de ambos equipos en La Liga 2
+- Comparar el rendimiento de ambos equipos en La Liga Hypermotion
 - Analizar las estadísticas individuales de los jugadores
 - Identificar fortalezas y debilidades de cada equipo
 - Proporcionar insights basados en datos para el análisis futbolístico
@@ -34,7 +34,7 @@ zaragoza_vs_cordoba/
 ## 📊 Fuentes de Datos
 
 Los datos provienen de **FBRef** (Football Reference), una de las fuentes más confiables para estadísticas de fútbol:
-- Estadísticas de equipos de La Liga 2 temporada 2025-2026
+- Estadísticas de equipos de La Liga Hypermotion temporada 2025-2026
 - Métricas individuales de jugadores
 - Datos de rendimiento, pases, disparos, defensa, y posesión
 
